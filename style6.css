@@ -1,0 +1,55 @@
+body {
+    background: url(https://cdn.mos.cms.futurecdn.net/zCgdwvHSc9tSDTs67E5jYj.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h5 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.usuario {
+    font-family: arial;
+    font-size: 30px;
+    border-radius: 12px;
+    border-color:darkolivegreen;
+    padding: 15px;
+    width: 400px;
+}
+
+.email {
+    font-family: arial;
+    font-size: 30px;
+    border-radius: 12px;
+    border-color:darkolivegreen;
+    padding: 15px;
+    width: 400px;
+}
+
+.password {
+    font-family: arial;
+    font-size: 30px;
+    border-radius: 12px;
+    border-color:darkolivegreen;
+    padding: 15px;
+    width: 400px;
+}
+
+.boton1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration:solid;
+    font-size: 30px;
+    border-radius: 45px;
+    border: 0px;
+    padding: 15px;
+    background-color: rgb(25, 216, 82);
+    width: 450px;
+}
